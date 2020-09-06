@@ -1,0 +1,2 @@
+# BankingApp
+Broadly speaking this program is a very bare-bones sample of a banking application with a very simple user interface. The user can accomplish the following actions:  make a payment to another person and deposit and withdraw money as desires from account. This program should also create a text file logging all changes recorded after login. The login implementation asks the user to enter the account first name which then uses as a key to find the object with that name located somewhere in a hashmap.
